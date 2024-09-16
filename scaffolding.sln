@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "server", "server", "{A95AC34B-1CD9-4684-BB4E-565022DB1D79}"
+	ProjectSection(SolutionItems) = preProject
+		server\docker-compose.yml = server\docker-compose.yml
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api", "server\api\api.csproj", "{D914F8B0-5A31-4182-8E16-D14EC51B24EE}"
 EndProject

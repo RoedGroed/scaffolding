@@ -1,0 +1,14 @@
+C:\Users\jonas\Assignments\scaffolding\server\dataaccess\bin\Debug\net8.0\dataaccess.deps.json
+C:\Users\jonas\Assignments\scaffolding\server\dataaccess\bin\Debug\net8.0\dataaccess.runtimeconfig.json
+C:\Users\jonas\Assignments\scaffolding\server\dataaccess\bin\Debug\net8.0\dataaccess.dll
+C:\Users\jonas\Assignments\scaffolding\server\dataaccess\bin\Debug\net8.0\dataaccess.pdb
+C:\Users\jonas\Assignments\scaffolding\server\dataaccess\obj\Debug\net8.0\dataaccess.csproj.AssemblyReference.cache
+C:\Users\jonas\Assignments\scaffolding\server\dataaccess\obj\Debug\net8.0\dataaccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonas\Assignments\scaffolding\server\dataaccess\obj\Debug\net8.0\dataaccess.AssemblyInfoInputs.cache
+C:\Users\jonas\Assignments\scaffolding\server\dataaccess\obj\Debug\net8.0\dataaccess.AssemblyInfo.cs
+C:\Users\jonas\Assignments\scaffolding\server\dataaccess\obj\Debug\net8.0\dataaccess.csproj.CoreCompileInputs.cache
+C:\Users\jonas\Assignments\scaffolding\server\dataaccess\obj\Debug\net8.0\dataaccess.dll
+C:\Users\jonas\Assignments\scaffolding\server\dataaccess\obj\Debug\net8.0\refint\dataaccess.dll
+C:\Users\jonas\Assignments\scaffolding\server\dataaccess\obj\Debug\net8.0\dataaccess.pdb
+C:\Users\jonas\Assignments\scaffolding\server\dataaccess\obj\Debug\net8.0\dataaccess.genruntimeconfig.cache
+C:\Users\jonas\Assignments\scaffolding\server\dataaccess\obj\Debug\net8.0\ref\dataaccess.dll
